@@ -1,0 +1,11 @@
+{
+  "name": "com.gurukirpa",
+  "version": "1.0.0",
+  "description": "This is a Billing Software Backend, which helps us to make the inventory systematically and help to make billing easy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ishvinder",
+  "license": "ISC"
+}
